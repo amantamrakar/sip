@@ -1,0 +1,9 @@
+git init -  iniliaztion of project
+ls -a - hidden folder showing
+ls .git - showing folder or file that you make
+touch file_name - to create file 
+git status -  status to show what you add or remove 
+git add . - folder adding and if single file to enter file name
+git status - showing all you add in git
+git commit -m "msg" - to showing msg to enter or remove 
+git vi - insert something by command in file
